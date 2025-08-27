@@ -1,0 +1,9 @@
+body{
+    background: wheat;
+}
+div{
+    background: white;
+    width: 60pt;
+    line-height: 20pt;
+    text-align: center;
+}
